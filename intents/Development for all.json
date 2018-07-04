@@ -1,0 +1,55 @@
+{
+  "id": "b6dd2057-a6bd-49a2-b7ba-148fd9aebc62",
+  "name": "Development for all",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "Development for all",
+          "subtitle": "It is all about providing employment opportunities to all the citizens of India",
+          "imageUrl": "https://cms48months.mygov.in/wp-content/uploads/2018/05/2a-2.jpg",
+          "buttons": [
+            {
+              "text": "Click for more info",
+              "postback": "https://48months.mygov.in/themes/development-for-all/"
+            }
+          ]
+        },
+        {
+          "type": 2,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "Navigating options",
+          "replies": [
+            "Home",
+            "Back to focus areas",
+            "End Exploring"
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "facebook": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1528452074,
+  "fallbackIntent": false,
+  "events": []
+}

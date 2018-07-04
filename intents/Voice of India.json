@@ -1,0 +1,69 @@
+{
+  "id": "de9a57dd-accc-42e5-9b3e-0b543ca3a671",
+  "name": "Voice of India",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "Voice of India",
+          "subtitle": "Testimonials from Beneficiaries of flagship Government schemes",
+          "imageUrl": "https://48months.mygov.in/wp-content/themes/48months/assets/images/theme-48.png",
+          "buttons": [
+            {
+              "text": "more about Voice of India"
+            },
+            {
+              "text": "https://48months.mygov.in/voice-of-india/"
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "platform": "facebook",
+          "lang": "en",
+          "speech": "See what India talks about Govt of India"
+        },
+        {
+          "type": 3,
+          "platform": "facebook",
+          "lang": "en",
+          "imageUrl": "https://48months.mygov.in/wp-content/uploads/2018/05/voice_of_india-1366x370.png"
+        },
+        {
+          "type": 2,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "Navigating options",
+          "replies": [
+            "Home",
+            "End Exploring"
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "facebook": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1528450858,
+  "fallbackIntent": false,
+  "events": []
+}

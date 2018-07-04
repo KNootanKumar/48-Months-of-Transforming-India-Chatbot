@@ -1,0 +1,55 @@
+{
+  "id": "569b6c92-3bb0-470e-85a3-1874e8f2b179",
+  "name": "Acclerating growth",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "Accelerating Growth",
+          "subtitle": "This is all about how the government of is persistently working to dive India into the era of Digital India and provide info of all the collaborations of India for the glorious drive of Digital India mission with leading companies like Google, Facebook, Microsoft.",
+          "imageUrl": "https://48months.mygov.in/wp-content/uploads/2018/05/1000000000464556144-1366x370.jpg",
+          "buttons": [
+            {
+              "text": "Link for more info about it",
+              "postback": "https://48months.mygov.in/themes/accelerating-growth/"
+            }
+          ]
+        },
+        {
+          "type": 2,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "Navigating options",
+          "replies": [
+            "Home",
+            "Back to Focus Areas",
+            "End Exploring"
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "facebook": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1528451510,
+  "fallbackIntent": false,
+  "events": []
+}

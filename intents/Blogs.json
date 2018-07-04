@@ -1,0 +1,102 @@
+{
+  "id": "9a7f4a0c-9a00-4ba0-9681-0dabb72cfe53",
+  "name": "Blogs",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "Blogs",
+          "subtitle": "Union Ministers write about the progress in 48 months",
+          "imageUrl": "https://48months.mygov.in/wp-content/uploads/2018/05/Blog_banner-1366x370.png",
+          "buttons": [
+            {
+              "text": "Click for more info",
+              "postback": "https://48months.mygov.in/blogs/"
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "platform": "facebook",
+          "lang": "en",
+          "speech": "Progress of India in the words of Union Ministers"
+        },
+        {
+          "type": 3,
+          "platform": "facebook",
+          "lang": "en",
+          "imageUrl": "https://48months.mygov.in/wp-content/uploads/2018/06/10000000001265451364.jpg"
+        },
+        {
+          "type": 3,
+          "platform": "facebook",
+          "lang": "en",
+          "imageUrl": "https://48months.mygov.in/wp-content/uploads/2018/06/1000000000611356397.jpg"
+        },
+        {
+          "type": 3,
+          "platform": "facebook",
+          "lang": "en",
+          "imageUrl": "https://48months.mygov.in/wp-content/uploads/2018/05/1000000000988435236.jpg"
+        },
+        {
+          "type": 3,
+          "platform": "facebook",
+          "lang": "en",
+          "imageUrl": "https://48months.mygov.in/wp-content/uploads/2018/05/10000000001113733333.png"
+        },
+        {
+          "type": 3,
+          "platform": "facebook",
+          "lang": "en",
+          "imageUrl": "https://48months.mygov.in/wp-content/uploads/2018/05/10000000001403590117.jpg"
+        },
+        {
+          "type": 3,
+          "platform": "facebook",
+          "lang": "en",
+          "imageUrl": "https://48months.mygov.in/wp-content/uploads/2018/05/1000000000315917861.png"
+        },
+        {
+          "type": 3,
+          "platform": "facebook",
+          "lang": "en",
+          "imageUrl": "https://48months.mygov.in/wp-content/uploads/2018/05/10000000001265856502.jpg"
+        },
+        {
+          "type": 2,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "Navigating options",
+          "replies": [
+            "Home",
+            "End Exploring"
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "facebook": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1528451455,
+  "fallbackIntent": false,
+  "events": []
+}

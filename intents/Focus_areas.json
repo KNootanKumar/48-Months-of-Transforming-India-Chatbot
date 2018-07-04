@@ -1,0 +1,62 @@
+{
+  "id": "9bc46099-d320-44c4-b85c-37c9bf7c02a5",
+  "name": "Focus_areas",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "Focus Areas",
+          "subtitle": "Achievements \u0026 Milestones across various sectors",
+          "imageUrl": "https://48months.mygov.in/wp-content/themes/48months/assets/images/theme-48.png",
+          "buttons": [
+            {
+              "text": "link to Focus Areas",
+              "postback": "https://48months.mygov.in/#themes"
+            }
+          ]
+        },
+        {
+          "type": 2,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "Explore more about it",
+          "replies": [
+            "Accelerating Growth",
+            "Commit to Soc-Just",
+            "Development for all",
+            "Eliminate Corruption",
+            "Healthy India",
+            "Harnessing yuva-sakt",
+            "Speed and Scale",
+            "Women lead develop",
+            "Taking farmers first",
+            "Home"
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "facebook": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1528453442,
+  "fallbackIntent": false,
+  "events": []
+}

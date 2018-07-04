@@ -1,0 +1,43 @@
+{
+  "id": "f00ffcb3-3302-4da6-a351-28f589679901",
+  "name": "Healthy India",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "Healthy India",
+          "imageUrl": "https://48months.mygov.in/wp-content/uploads/2018/05/100000000077429285-1366x370.jpg",
+          "buttons": [
+            {
+              "text": "click here for more info",
+              "postback": "https://48months.mygov.in/themes/healthy-india/"
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "facebook": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1528354931,
+  "fallbackIntent": false,
+  "events": []
+}

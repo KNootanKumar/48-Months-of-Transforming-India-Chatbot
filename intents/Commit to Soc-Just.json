@@ -1,0 +1,57 @@
+{
+  "id": "b437b3ba-16b9-4c2e-b613-479abda162fe",
+  "name": "Commit to Soc-Just",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "Commit to Soc-Just",
+          "subtitle": "An initiative to support Education, Health, Physically Handicapped for people below poverty line",
+          "imageUrl": "https://48months.mygov.in/wp-content/uploads/2018/05/10000000001177371187-1366x370.jpg",
+          "buttons": [
+            {
+              "text": "Click for more info"
+            },
+            {
+              "text": "https://48months.mygov.in/themes/commitment-to-social-justice/"
+            }
+          ]
+        },
+        {
+          "type": 2,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "Navigating options",
+          "replies": [
+            "Home",
+            "Back to focus areas",
+            "End Exploring"
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "facebook": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1528451751,
+  "fallbackIntent": false,
+  "events": []
+}

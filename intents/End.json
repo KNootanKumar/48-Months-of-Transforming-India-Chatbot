@@ -1,0 +1,46 @@
+{
+  "id": "a222e9fb-6503-44e5-b619-017d9cc73f70",
+  "name": "End",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 3,
+          "platform": "facebook",
+          "lang": "en",
+          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q\u003dtbn:ANd9GcQprVKPqNDYqJkItzQiXk876b07whT47jr5dqMFp8b7L5bTh-Sw"
+        },
+        {
+          "type": 0,
+          "platform": "facebook",
+          "lang": "en",
+          "speech": "Be the Change in the world you want to see"
+        },
+        {
+          "type": 0,
+          "platform": "facebook",
+          "lang": "en",
+          "speech": "Jai Hind!"
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1528452475,
+  "fallbackIntent": false,
+  "events": []
+}

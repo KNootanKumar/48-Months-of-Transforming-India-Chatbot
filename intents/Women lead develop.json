@@ -1,0 +1,55 @@
+{
+  "id": "3deeb12c-3a4f-4e52-91c6-daff7ffd0f23",
+  "name": "Women lead develop",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "Women lead develop",
+          "subtitle": "An initiative for Facilitating Well-Being of Expectant Mother",
+          "imageUrl": "https://48months.mygov.in/wp-content/uploads/2018/05/10000000002044445332.png",
+          "buttons": [
+            {
+              "text": "click here for more info",
+              "postback": "https://48months.mygov.in/themes/women-led-development/#infographics"
+            }
+          ]
+        },
+        {
+          "type": 2,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "Navigation options",
+          "replies": [
+            "Home",
+            "Back to focus areas",
+            "End Exploring"
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "facebook": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1528453307,
+  "fallbackIntent": false,
+  "events": []
+}

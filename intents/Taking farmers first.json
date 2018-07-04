@@ -1,0 +1,55 @@
+{
+  "id": "326540c6-e756-4c23-8cb0-281cf5d43559",
+  "name": "Taking farmers first",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "Putting Farmers First",
+          "subtitle": "An Initiative to provide support to farmers to take the culture of Agriculture to next level",
+          "imageUrl": "https://48months.mygov.in/wp-content/uploads/2018/05/1000000000328778780.png",
+          "buttons": [
+            {
+              "text": "Click for more info",
+              "postback": "https://48months.mygov.in/themes/putting-farmers-first/#infographics"
+            }
+          ]
+        },
+        {
+          "type": 2,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "Navigating options",
+          "replies": [
+            "Home",
+            "Back to focus areas",
+            "End Exploring"
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "facebook": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1528453053,
+  "fallbackIntent": false,
+  "events": []
+}

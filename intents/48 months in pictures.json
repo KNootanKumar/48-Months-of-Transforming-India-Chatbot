@@ -1,0 +1,104 @@
+{
+  "id": "8a3eed7b-3b4e-429b-8a8c-29071a52d61e",
+  "name": "48 months in pictures",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "48months in pictures",
+          "subtitle": "Milestones, Remarkable Moments in Pictures",
+          "imageUrl": "https://48months.mygov.in/wp-content/uploads/2018/05/voice_of_india-1366x370.png",
+          "buttons": [
+            {
+              "text": "link it for more info"
+            },
+            {
+              "text": "https://48months.mygov.in/48-months-in-pictures/"
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "platform": "facebook",
+          "lang": "en",
+          "speech": "Glance look at all the Milestones and memories"
+        },
+        {
+          "type": 3,
+          "platform": "facebook",
+          "lang": "en",
+          "imageUrl": "https://48months.mygov.in/wp-content/uploads/2018/05/1000000000815060099-360x360.jpg"
+        },
+        {
+          "type": 3,
+          "platform": "facebook",
+          "lang": "en",
+          "imageUrl": "https://48months.mygov.in/wp-content/uploads/2018/05/10000000001612448089-360x360.jpg"
+        },
+        {
+          "type": 3,
+          "platform": "facebook",
+          "lang": "en",
+          "imageUrl": "https://48months.mygov.in/wp-content/uploads/2018/05/10000000001108581781-360x360.jpg"
+        },
+        {
+          "type": 3,
+          "platform": "facebook",
+          "lang": "en",
+          "imageUrl": "https://48months.mygov.in/wp-content/uploads/2018/05/10000000001739292061-360x360.jpg"
+        },
+        {
+          "type": 3,
+          "platform": "facebook",
+          "lang": "en",
+          "imageUrl": "https://48months.mygov.in/wp-content/uploads/2018/05/1000000000106761382-360x360.jpg"
+        },
+        {
+          "type": 3,
+          "platform": "facebook",
+          "lang": "en",
+          "imageUrl": "https://48months.mygov.in/wp-content/uploads/2018/05/1000000000617465683-360x360.jpg"
+        },
+        {
+          "type": 3,
+          "platform": "facebook",
+          "lang": "en",
+          "imageUrl": "https://48months.mygov.in/wp-content/uploads/2018/05/10000000001260033727-360x360.jpg"
+        },
+        {
+          "type": 2,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "Navigating Options",
+          "replies": [
+            "Home",
+            "End  Exploring"
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "facebook": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1528449802,
+  "fallbackIntent": false,
+  "events": []
+}

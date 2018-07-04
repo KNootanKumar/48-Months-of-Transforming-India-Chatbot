@@ -1,0 +1,57 @@
+{
+  "id": "84c3e44c-0c6d-479c-a50d-897e46c3af28",
+  "name": "Welcome",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "platform": "facebook",
+          "lang": "en",
+          "speech": "Welcome to Enrich India bot"
+        },
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "48 MONTHS OF TRANSFORMING INDIA",
+          "subtitle": "48 months of transforming India is a initiative by Government of India under the prime minister of India to enrich the knowledge of citizens of India for exploring their rights and grants.",
+          "imageUrl": "https://48months.mygov.in/wp-content/uploads/2018/05/100000000010414172.jpg",
+          "buttons": [
+            {
+              "text": "Check out here for latest info",
+              "postback": "https://48months.mygov.in/"
+            }
+          ]
+        },
+        {
+          "type": 2,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "Start Exploring by choosing option",
+          "replies": [
+            "48 months of India"
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1528371068,
+  "fallbackIntent": false,
+  "events": []
+}

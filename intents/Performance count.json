@@ -1,0 +1,54 @@
+{
+  "id": "9d1161c1-e839-4214-ad14-2e3f94103793",
+  "name": "Performance count",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "Performance Count",
+          "subtitle": "Impact of Various Schemes and Initiatives",
+          "imageUrl": "https://48months.mygov.in/wp-content/themes/48months/assets/images/theme-48.png",
+          "buttons": [
+            {
+              "text": "More about performance count",
+              "postback": "https://48months.mygov.in/performance-dashboard/"
+            }
+          ]
+        },
+        {
+          "type": 2,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "Navigating options",
+          "replies": [
+            "Home",
+            "End Exploring"
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "facebook": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1528451244,
+  "fallbackIntent": false,
+  "events": []
+}

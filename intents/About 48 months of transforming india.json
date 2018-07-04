@@ -1,0 +1,60 @@
+{
+  "id": "7b39739e-efd8-427a-a3b6-b26deb7e39dd",
+  "name": "About 48 months of transforming india",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "58b2d58c-8e65-4f9b-bbe5-f6a9818a647d",
+          "required": false,
+          "dataType": "@sys.geo-country",
+          "name": "geo-country",
+          "value": "$geo-country",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "platform": "facebook",
+          "lang": "en",
+          "speech": "48 months of transforming India is a initiative by Government of India under the prime minister of India to enrich the knowledge of citizens of India for exploring their rights and grants."
+        },
+        {
+          "type": 2,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "",
+          "replies": [
+            "Focus Areas",
+            "Governance Quiz",
+            "Performance Count",
+            "Voice of India",
+            "48months in pictures",
+            "Download Center",
+            "Blogs"
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "facebook": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1528453611,
+  "fallbackIntent": false,
+  "events": []
+}

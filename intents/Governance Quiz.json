@@ -1,0 +1,63 @@
+{
+  "id": "d798ae40-9806-47e0-a2c0-328c5bfb63ae",
+  "name": "Governance Quiz",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "Governance Quiz",
+          "subtitle": "What has the Government done for citizens like you? What is the progress across various sectors? What is the impact of various Governance Initiatives? Take this informative \u0026 interactive Quiz to get acquainted with the Transformation led by the Government in the last 48 months!",
+          "imageUrl": "https://static.mygov.in/rest/s3fs-public/styles/home-slider-image/public/mygov_152818428052221771.png",
+          "buttons": [
+            {
+              "text": "Link to Governance Quiz"
+            },
+            {
+              "text": "https://48months.mygov.in/#themes"
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "platform": "facebook",
+          "lang": "en",
+          "speech": "Open the above link to attempt Quiz and become knowledgeable about your rights and grants"
+        },
+        {
+          "type": 2,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "Navigating options",
+          "replies": [
+            "Home",
+            "End Exploring"
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "facebook": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1528457155,
+  "fallbackIntent": false,
+  "events": []
+}

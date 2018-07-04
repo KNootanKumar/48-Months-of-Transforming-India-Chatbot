@@ -1,0 +1,102 @@
+{
+  "id": "9d3f2272-ba67-4a02-9756-876d8ed2c281",
+  "name": "Download Center",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "Download Center",
+          "subtitle": "Publications of the Government of India",
+          "imageUrl": "https://48months.mygov.in/wp-content/uploads/2018/05/48-months-download-1366x370.png",
+          "buttons": [
+            {
+              "text": "Click for more info",
+              "postback": "https://48months.mygov.in/downloads/"
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "platform": "facebook",
+          "lang": "en",
+          "speech": "Glance look at  E-Books, Flyers, Images, Print Ads."
+        },
+        {
+          "type": 3,
+          "platform": "facebook",
+          "lang": "en",
+          "imageUrl": "https://48months.mygov.in/wp-content/uploads/2018/06/10000000001502078375-350x220.png"
+        },
+        {
+          "type": 3,
+          "platform": "facebook",
+          "lang": "en",
+          "imageUrl": "https://48months.mygov.in/wp-content/uploads/2018/06/1000000000994725610-350x220.png"
+        },
+        {
+          "type": 3,
+          "platform": "facebook",
+          "lang": "en",
+          "imageUrl": "https://48months.mygov.in/wp-content/uploads/2018/06/10000000001501201520-350x220.png"
+        },
+        {
+          "type": 3,
+          "platform": "facebook",
+          "lang": "en",
+          "imageUrl": "https://48months.mygov.in/wp-content/uploads/2018/06/100000000034550118-350x220.png"
+        },
+        {
+          "type": 3,
+          "platform": "facebook",
+          "lang": "en",
+          "imageUrl": "https://48months.mygov.in/wp-content/uploads/2018/06/1000000000942455165-350x220.png"
+        },
+        {
+          "type": 3,
+          "platform": "facebook",
+          "lang": "en",
+          "imageUrl": "https://48months.mygov.in/wp-content/uploads/2018/06/1000000000831384190-350x220.png"
+        },
+        {
+          "type": 3,
+          "platform": "facebook",
+          "lang": "en",
+          "imageUrl": "https://48months.mygov.in/wp-content/uploads/2018/05/1000000000859273901-350x220.jpg"
+        },
+        {
+          "type": 2,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "Navigating options",
+          "replies": [
+            "Home",
+            "End Exploring"
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "facebook": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1528450607,
+  "fallbackIntent": false,
+  "events": []
+}

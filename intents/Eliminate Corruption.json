@@ -1,0 +1,55 @@
+{
+  "id": "b25c800f-150f-4427-ab58-852e07b02db2",
+  "name": "Eliminate Corruption",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "Eliminate Corruption",
+          "subtitle": "Enabling Legislations and Amendiments to eliminate corruption",
+          "imageUrl": "https://48months.mygov.in/wp-content/uploads/2018/05/1000000000196044896-1366x370.jpg",
+          "buttons": [
+            {
+              "text": "Click for more info",
+              "postback": "https://48months.mygov.in/themes/eliminating-corruption/"
+            }
+          ]
+        },
+        {
+          "type": 2,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "Navigating options",
+          "replies": [
+            "Home",
+            "Back to focus areas",
+            "End Exploring"
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "facebook": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1528452444,
+  "fallbackIntent": false,
+  "events": []
+}

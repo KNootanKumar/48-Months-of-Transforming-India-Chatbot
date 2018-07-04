@@ -1,0 +1,55 @@
+{
+  "id": "412844bd-07f5-4203-a73b-ab2d09c306f4",
+  "name": "Speed and Scale",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "Speed and Scale",
+          "subtitle": "It shows the rate at which Government of India had revolutionized India in terms of Speed and Scale",
+          "imageUrl": "https://48months.mygov.in/wp-content/uploads/2018/05/10000000001945883439-360x360.jpg",
+          "buttons": [
+            {
+              "text": "click here for more info",
+              "postback": "https://48months.mygov.in/themes/speed-and-scale-of-transformation/#monthsinpicture"
+            }
+          ]
+        },
+        {
+          "type": 2,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "Navigating options",
+          "replies": [
+            "Home",
+            "Back to focus areas",
+            "End Exploring"
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "facebook": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1528452839,
+  "fallbackIntent": false,
+  "events": []
+}
